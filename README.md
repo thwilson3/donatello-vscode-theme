@@ -1,6 +1,6 @@
 # Donatello Dark Color Theme
 
-Dark color theme inspired by [Donatello](https://en.wikipedia.org/wiki/Donatello_(Teenage_Mutant_Ninja_Turtles))
+Vibrant purple and green dark theme inspired by [Donatello](https://en.wikipedia.org/wiki/Donatello_(Teenage_Mutant_Ninja_Turtles))
 
 ## Screenshots
 
