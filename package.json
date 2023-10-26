@@ -17,5 +17,10 @@
         "path": "./themes/Donatello Dark Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thwilson3/donatello-vscode-theme.git"
   }
+
 }
