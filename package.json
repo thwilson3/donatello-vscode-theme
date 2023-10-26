@@ -1,0 +1,21 @@
+{
+  "name": "donatello-theme",
+  "displayName": "Donatello Theme",
+  "description": "Vibrant purple and green VSCode dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Donatello Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Donatello Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
